@@ -1,0 +1,595 @@
+{
+  "products": [
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j33g6i6",
+      "name": "Basic T-Shirt",
+      "price": 15,
+      "description": "A comfortable and stylish basic t-shirt.",
+      "category": "t-shirts",
+      "colors": [
+        "White",
+        "Blue",
+        "Green"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "image": "https://i.ibb.co/njkCQHq/t-shirt-3.webp",
+      "image-detail": [
+        "https://i.ibb.co/njkCQHq/t-shirt-3.webp",
+        "https://i.ibb.co/njkCQHq/t-shirt-3.webp",
+        "https://i.ibb.co/njkCQHq/t-shirt-3.webp"
+      ],
+      "rating": "10k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "u3k8h9f1-9g22-3h67-2g13-5k6g9k45g4t3",
+      "name": "Sporty T-Shirt",
+      "price": 25,
+      "description": "Perfect for your workout sessions.",
+      "category": "t-shirts",
+      "colors": [
+        "Black",
+        "Gray",
+        "white",
+        "Maroon"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/WtgcmWR/t-shirt-2.webp",
+      "image-detail": [
+        "https://i.ibb.co/WtgcmWR/t-shirt-2.webp",
+        "https://i.ibb.co/WtgcmWR/t-shirt-2.webp",
+        "https://i.ibb.co/WtgcmWR/t-shirt-2.webp"
+      ],
+      "rating": "1k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "y4l7i8o1-2j33-4k56-8p92-7m9b8j45h7u8",
+      "name": "Casual T-Shirt",
+      "price": 20,
+      "description": "Stay casual and comfortable.",
+      "category": "t-shirts",
+      "colors": [
+        "White",
+        "Yellow",
+        "Pink"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "image": "https://i.ibb.co/J3GnxxJ/t-shirt-4.webp",
+      "image-detail": [
+        "https://i.ibb.co/J3GnxxJ/t-shirt-4.webp",
+        "https://i.ibb.co/J3GnxxJ/t-shirt-4.webp",
+        "https://i.ibb.co/J3GnxxJ/t-shirt-4.webp"
+      ],
+      "rating": "2k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "o9b5l2e3-5t78-2v45-7h92-4c8h7d99a3u1",
+      "name": "Graphic T-Shirt",
+      "price": 24,
+      "description": "Unique graphic design for a standout look.",
+      "category": "t-shirts",
+      "colors": [
+        "Blue",
+        "Purple"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/fvhz0L9/t-shirt-1.webp",
+      "image-detail": [
+        "https://i.ibb.co/fvhz0L9/t-shirt-1.webp",
+        "https://i.ibb.co/fvhz0L9/t-shirt-1.webp"
+      ],
+      "rating": "9k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "p8u9h2k1-7y99-2d18-3h77-8n7m9p11j5o2",
+      "name": "V-Neck T-Shirt",
+      "price": 21,
+      "description": "A stylish V-neck t-shirt for casual wear.",
+      "category": "t-shirts",
+      "colors": [
+        "Maroon",
+        "Navy"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "image": "https://i.ibb.co/gyK0K05/t-shirt-5.webp",
+      "image-detail": [
+        "https://i.ibb.co/gyK0K05/t-shirt-5.webp"
+      ],
+      "rating": "900",
+      "sell": "Best quality"
+    },
+    {
+      "id": "j2g5h7o1-4e11-8r34-2d75-3s4m6n92h6r2",
+      "name": "Oversized T-Shirt",
+      "price": 25,
+      "description": "Comfort meets style in this oversized fit.",
+      "category": "t-shirts",
+      "colors": [
+        "Gray",
+        "Beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "image": "https://i.ibb.co/PjPZxnP/t-shirt-6.webp",
+      "image-detail": [
+        "https://i.ibb.co/PjPZxnP/t-shirt-6.webp",
+        "https://i.ibb.co/1K7FpzG/t-shirt-6-1.webp"
+      ],
+      "rating": "2k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "n4i7k8j1-8p23-5h67-1k45-2m6n8j45g5b2",
+      "name": "Sleeveless T-Shirt",
+      "price": 18,
+      "description": "Cool and comfortable for hot weather.",
+      "category": "t-shirts",
+      "colors": [
+        "Red",
+        "Brown",
+        "Black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "image": "https://i.ibb.co/vBk4PRS/t-shirt-7.webp",
+      "image-detail": [
+        "https://i.ibb.co/vBk4PRS/t-shirt-7.webp",
+        "https://i.ibb.co/D9GhXyT/t-shirt-7-1.webp",
+        "https://i.ibb.co/JQzfRKd/t-shirt-7-2.webp"
+      ],
+      "rating": "10k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "d9b6h3k1-4e45-2v18-9g77-5j9m8h11b4u3",
+      "name": "Classic Polo T-Shirt",
+      "price": 26,
+      "description": "A timeless classic for formal or casual wear.",
+      "category": "t-shirts",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "image": "https://i.ibb.co/XSzf79Q/t-shirt-8.webp",
+      "image-detail": [
+        "https://i.ibb.co/XSzf79Q/t-shirt-8.webp",
+        "https://i.ibb.co/gWD5kRs/t-shirt-8-1.webp",
+        "https://i.ibb.co/R0CxyKM/t-shirt-8-3.webp"
+      ],
+      "rating": "1k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "u1m9h3i2-6g12-8b23-2v34-6n5j7f11l3r4",
+      "name": "Denim Jacket",
+      "price": 150,
+      "description": "A sturdy and stylish denim jacket for all occasions.",
+      "category": "jackets",
+      "colors": [
+        "Brown",
+        "Black",
+        "Beige"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/MPbgCm0/jacket-1.webp",
+      "image-detail": [
+        "https://i.ibb.co/MPbgCm0/jacket-1.webp",
+        "https://i.ibb.co/TPDWmH1/jacket-1-1.webp",
+        "https://i.ibb.co/dkzjkjQ/jacket-1-2.webp"
+      ],
+      "rating": "40k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "h4i5j7k1-2b33-4v18-7g45-5m9h9d11j3t2",
+      "name": "Student Jacket",
+      "price": 70,
+      "description": "Premium leather jacket with a sleek finish.",
+      "category": "jackets",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "image": "https://i.ibb.co/T0BzWzv/jacket-2.webp",
+      "image-detail": [
+        "https://i.ibb.co/T0BzWzv/jacket-2.webp",
+        "https://i.ibb.co/T0BzWzv/jacket-2.webp"
+      ],
+      "rating": "10k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "h4i8j7k1-2b33-4v18-7g45-hung9d11j3t2",
+      "name": "Classic Jacket",
+      "price": 110,
+      "description": "Premium leather jacket with a sleek finish.",
+      "category": "jackets",
+      "colors": [
+        "Green"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
+      "image-detail": [
+        "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
+        "https://i.ibb.co/qYcv9H0/jacket-3-1.webp"
+      ],
+      "rating": "10k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "h4i8j7k1-yeu-4v18-7g45-9d11j3t2",
+      "name": "sports jackets",
+      "price": 110,
+      "description": "Premium leather jacket with a sleek finish.",
+      "category": "jackets",
+      "colors": [
+        "White",
+        "Gray",
+        "Pink"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/Sf2BTbv/jacket-5.webp",
+      "image-detail": [
+        "https://i.ibb.co/Sf2BTbv/jacket-5.webp",
+        "https://i.ibb.co/RNp2QGM/jacket-5-1.webp",
+        "https://i.ibb.co/h1pRWGY/jacket-5-2.webp"
+      ],
+      "rating": "300k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "h4i8j7k1-2b33-4v18-1minh-9d11j3t2",
+      "name": "motorcycle jacket",
+      "price": 110,
+      "description": "Premium leather jacket with a sleek finish.",
+      "category": "jackets",
+      "colors": [
+        "Green"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/SKPcmwg/jacket-6.webp",
+      "image-detail": [
+        "https://i.ibb.co/SKPcmwg/jacket-6.webp",
+        "https://i.ibb.co/qxKsPz8/jacket-6-1.webp",
+        "https://i.ibb.co/6YR3Kxd/jacket-6-2.webp"
+      ],
+      "rating": "110k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "h4i8j7k1-2b33-489s-7g45-9d11j3t2",
+      "name": "Classic Jacket",
+      "price": 110,
+      "description": "Premium leather jacket with a sleek finish.",
+      "category": "jackets",
+      "colors": [
+        "Green"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
+      "image-detail": [
+        "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
+        "https://i.ibb.co/qYcv9H0/jacket-3-1.webp"
+      ],
+      "rating": "10k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "h4i8j7k1-2b33-4v18-7g45-541805kc",
+      "name": "Classic Jacket",
+      "price": 110,
+      "description": "Premium leather jacket with a sleek finish.",
+      "category": "jackets",
+      "colors": [
+        "Green"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
+      "image-detail": [
+        "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
+        "https://i.ibb.co/qYcv9H0/jacket-3-1.webp"
+      ],
+      "rating": "10k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "h4i8j7k1-2b33-4v18-7g45-93dfg3432",
+      "name": "Classic Jacket",
+      "price": 110,
+      "description": "Premium leather jacket with a sleek finish.",
+      "category": "jackets",
+      "colors": [
+        "Green"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
+      "image-detail": [
+        "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
+        "https://i.ibb.co/qYcv9H0/jacket-3-1.webp"
+      ],
+      "rating": "10k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "h4i8j7k1-2b33-4v18-7g45-hung9d11j3t2",
+      "name": "Classic Jacket",
+      "price": 110,
+      "description": "Premium leather jacket with a sleek finish.",
+      "category": "jackets",
+      "colors": [
+        "Green"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
+      "image-detail": [
+        "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
+        "https://i.ibb.co/qYcv9H0/jacket-3-1.webp"
+      ],
+      "rating": "10k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "o2b3d9j2-7k11-2g45-3v65-4h7m8b21k9l2",
+      "name": "Classic Shirt",
+      "price": 35,
+      "description": "A classic white shirt perfect for formal events.",
+      "category": "shirt",
+      "colors": [
+        "White"
+      ],
+      "sizes": [
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/MRTgRYj/shirt-1.webp",
+      "image-detail": [
+        "https://i.ibb.co/MRTgRYj/shirt-1.webp"
+      ],
+      "rating": "10k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "i1f4h6d2-8k12-3v22-7b33-5t9g8k11j4t3",
+      "name": "Denim Shirt",
+      "price": 45,
+      "description": "A sturdy denim shirt for a casual yet refined look.",
+      "category": "shirt",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/df8N0w2/shirt-2.webp",
+      "image-detail": [
+        "https://i.ibb.co/df8N0w2/shirt-2.webp"
+      ],
+      "rating": "10k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "u5p7k3h1-9g22-3l67-5v23-6k7m9d31l6t2",
+      "name": "Checked Casual Shirt",
+      "price": 25,
+      "description": "A soft casual shirt with a checked pattern.",
+      "category": "shirt",
+      "colors": [
+        "White",
+        "Blue",
+        "Green"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/NtRHWXL/shirt-3.webp",
+      "image-detail": [
+        "https://i.ibb.co/NtRHWXL/shirt-3.webp",
+        "https://i.ibb.co/zNbMXDs/shirt-3-1.webp",
+        "https://i.ibb.co/L8VynTx/shirt-3-2.webp"
+      ],
+      "rating": "10k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "o6k2h3j1-3h33-4m56-9p92-8n9b7j55h8k8",
+      "name": "Slim Fit Shirt",
+      "price": 37,
+      "description": "A modern slim fit shirt that enhances your silhouette.",
+      "category": "shirt",
+      "colors": [
+        "Black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "image": "https://i.ibb.co/Vt1TL69/shirt-4.webp",
+      "image-detail": [
+        "https://i.ibb.co/Vt1TL69/shirt-4.webp",
+        "https://i.ibb.co/Vt1TL69/shirt-4.webp"
+      ],
+      "rating": "10k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "j5h6l8p3-8v44-3f22-1k33-4m5g7l21j5h7",
+      "name": "Classic Jeans",
+      "price": 45,
+      "description": "Classic blue jeans made with premium denim.",
+      "category": "jeans",
+      "colors": [
+        "Gray"
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "image": "https://i.ibb.co/0VjjJS7/jean-1.webp",
+      "image-detail": [
+        "https://i.ibb.co/0VjjJS7/jean-1.webp"
+      ],
+      "rating": "10k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "p3j2h9b1-2k88-5t56-6g12-4n7f8d34m2n4",
+      "name": "Black Skinny Jeans",
+      "price": 55,
+      "description": "Skinny fit jeans that add a modern touch to your look.",
+      "category": "jeans",
+      "colors": [
+        "Black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/3d7b9SB/jean-2.webp",
+      "image-detail": [
+        "https://i.ibb.co/3d7b9SB/jean-2.webp"
+      ],
+      "rating": "10k",
+      "sell": "Best quality"
+    },
+    {
+      "id": "g9l5k8p2-5h23-4m44-3g88-7v9b7j45h6p2",
+      "name": "Distressed Jeans",
+      "price": 50,
+      "description": "Distressed jeans with a rugged and stylish look.",
+      "category": "jeans",
+      "colors": [
+        "Light Blue",
+        "Black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "image": "https://i.ibb.co/D8k5DHb/jean-3.webp",
+      "image-detail": [
+        "https://i.ibb.co/D8k5DHb/jean-3.webp",
+        "https://i.ibb.co/52YmKP4/jean-3-1.webp"
+      ],
+      "rating": "10k",
+      "sell": "Best quality"
+    }
+  ],
+  "category": [
+    {
+      "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j37211",
+      "tite": "t-shirt",
+      "image": "https://i.ibb.co/vBk4PRS/t-shirt-7.webp"
+    },
+    {
+      "id": "29g6i9i2-8f89-6h15-9i0e-6j2f7266337211",
+      "tite": "jacket",
+      "image": "https://i.ibb.co/SKPcmwg/jacket-6.webp"
+    },
+    {
+      "id": "i7g6i9i2-8f89-6h15-9idrf3329-1j37211",
+      "tite": "shirt",
+      "image": "https://i.ibb.co/zNbMXDs/shirt-3-1.webp"
+    },
+    {
+      "id": "i7g6i9i2-8f89-123jf-6j2f7j37211",
+      "tite": "jeans",
+      "image": "https://i.ibb.co/52YmKP4/jean-3-1.webp"
+    }
+  ],
+  "comment": [
+    {
+      "id": "5453-8f89-6h15-9i0e-6j2f1cnq124337",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum dapibus luctus.",
+      "name": "Leopard",
+      "avatar": "https://i.ibb.co/PW7QDds/comment-1.webp"
+    },
+    {
+      "id": "5ju3-8f89-6h15-9i0e-613nq124337",
+      "comment": "Beautiful and quality products, people should not buy",
+      "name": "Hot Girl",
+      "avatar": "https://i.ibb.co/f9kLWFd/comment-2.webp"
+    }
+  ],
+  "users": [],
+  "cart": [],
+  "wish-list": []
+}
