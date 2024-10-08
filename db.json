@@ -580,22 +580,22 @@
   "category": [
     {
       "id": "i7g6i9i2-8f89-6h15-9i0e-6j2f7j37211",
-      "tite": "t-shirt",
+      "title": "t-shirt",
       "image": "https://i.ibb.co/vBk4PRS/t-shirt-7.webp"
     },
     {
       "id": "29g6i9i2-8f89-6h15-9i0e-6j2f7266337211",
-      "tite": "jacket",
+      "title": "jacket",
       "image": "https://i.ibb.co/SKPcmwg/jacket-6.webp"
     },
     {
       "id": "i7g6i9i2-8f89-6h15-9idrf3329-1j37211",
-      "tite": "shirt",
+      "title": "shirt",
       "image": "https://i.ibb.co/zNbMXDs/shirt-3-1.webp"
     },
     {
       "id": "i7g6i9i2-8f89-123jf-6j2f7j37211",
-      "tite": "jeans",
+      "title": "jeans",
       "image": "https://i.ibb.co/52YmKP4/jean-3-1.webp"
     }
   ],
