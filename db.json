@@ -5,7 +5,7 @@
       "name": "Basic T-Shirt",
       "price": 15,
       "description": "A comfortable and stylish basic t-shirt.",
-      "category": "t-shirts",
+      "category": "t-shirt",
       "colors": [
         "White",
         "Blue",
@@ -31,7 +31,7 @@
       "name": "Sporty T-Shirt",
       "price": 25,
       "description": "Perfect for your workout sessions.",
-      "category": "t-shirts",
+      "category": "t-shirt",
       "colors": [
         "Black",
         "Gray",
@@ -58,7 +58,7 @@
       "name": "Casual T-Shirt",
       "price": 20,
       "description": "Stay casual and comfortable.",
-      "category": "t-shirts",
+      "category": "t-shirt",
       "colors": [
         "White",
         "Yellow",
@@ -85,7 +85,7 @@
       "name": "Graphic T-Shirt",
       "price": 24,
       "description": "Unique graphic design for a standout look.",
-      "category": "t-shirts",
+      "category": "t-shirt",
       "colors": [
         "Blue",
         "Purple"
@@ -110,7 +110,7 @@
       "name": "V-Neck T-Shirt",
       "price": 21,
       "description": "A stylish V-neck t-shirt for casual wear.",
-      "category": "t-shirts",
+      "category": "t-shirt",
       "colors": [
         "Maroon",
         "Navy"
@@ -133,7 +133,7 @@
       "name": "Oversized T-Shirt",
       "price": 25,
       "description": "Comfort meets style in this oversized fit.",
-      "category": "t-shirts",
+      "category": "t-shirt",
       "colors": [
         "Gray",
         "Beige"
@@ -157,7 +157,7 @@
       "name": "Sleeveless T-Shirt",
       "price": 18,
       "description": "Cool and comfortable for hot weather.",
-      "category": "t-shirts",
+      "category": "t-shirt",
       "colors": [
         "Red",
         "Brown",
@@ -183,7 +183,7 @@
       "name": "Classic Polo T-Shirt",
       "price": 26,
       "description": "A timeless classic for formal or casual wear.",
-      "category": "t-shirts",
+      "category": "t-shirt",
       "colors": [
         "White",
         "Green"
@@ -207,7 +207,7 @@
       "name": "Denim Jacket",
       "price": 150,
       "description": "A sturdy and stylish denim jacket for all occasions.",
-      "category": "jackets",
+      "category": "jacket",
       "colors": [
         "Brown",
         "Black",
@@ -233,7 +233,7 @@
       "name": "Student Jacket",
       "price": 70,
       "description": "Premium leather jacket with a sleek finish.",
-      "category": "jackets",
+      "category": "jacket",
       "colors": [
         "white"
       ],
@@ -256,7 +256,7 @@
       "name": "Classic Jacket",
       "price": 110,
       "description": "Premium leather jacket with a sleek finish.",
-      "category": "jackets",
+      "category": "jacket",
       "colors": [
         "Green"
       ],
@@ -279,7 +279,7 @@
       "name": "sports jackets",
       "price": 110,
       "description": "Premium leather jacket with a sleek finish.",
-      "category": "jackets",
+      "category": "jacket",
       "colors": [
         "White",
         "Gray",
@@ -305,7 +305,7 @@
       "name": "motorcycle jacket",
       "price": 110,
       "description": "Premium leather jacket with a sleek finish.",
-      "category": "jackets",
+      "category": "jacket",
       "colors": [
         "Green"
       ],
@@ -329,7 +329,7 @@
       "name": "Classic Jacket",
       "price": 110,
       "description": "Premium leather jacket with a sleek finish.",
-      "category": "jackets",
+      "category": "jacket",
       "colors": [
         "Green"
       ],
@@ -352,7 +352,7 @@
       "name": "Classic Jacket",
       "price": 110,
       "description": "Premium leather jacket with a sleek finish.",
-      "category": "jackets",
+      "category": "jacket",
       "colors": [
         "Green"
       ],
@@ -375,7 +375,7 @@
       "name": "Classic Jacket",
       "price": 110,
       "description": "Premium leather jacket with a sleek finish.",
-      "category": "jackets",
+      "category": "jacket",
       "colors": [
         "Green"
       ],
@@ -398,7 +398,7 @@
       "name": "Classic Jacket",
       "price": 110,
       "description": "Premium leather jacket with a sleek finish.",
-      "category": "jackets",
+      "category": "jacket",
       "colors": [
         "Green"
       ],
