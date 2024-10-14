@@ -35,7 +35,7 @@
       "colors": [
         "Black",
         "Gray",
-        "white",
+        "White",
         "Maroon"
       ],
       "sizes": [
@@ -235,7 +235,7 @@
       "description": "Premium leather jacket with a sleek finish.",
       "category": "jacket",
       "colors": [
-        "white",
+        "White",
         "Red"
       ],
       "sizes": [
@@ -377,7 +377,7 @@
       "id": "o2b3d9j2-7k11-2g45-3v65-4h7m8b21k9l2",
       "name": "Classic Shirt",
       "price": 35,
-      "description": "A classic white shirt perfect for formal events.",
+      "description": "A classic White shirt perfect for formal events.",
       "category": "shirt",
       "colors": [
         "White",
@@ -402,7 +402,7 @@
       "description": "A sturdy denim shirt for a casual yet refined look.",
       "category": "shirt",
       "colors": [
-        "white"
+        "White"
       ],
       "sizes": [
         "S",
