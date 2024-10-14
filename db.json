@@ -17,7 +17,7 @@
         "L"
       ],
       "image": "https://i.ibb.co/njkCQHq/t-shirt-3.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/njkCQHq/t-shirt-3.webp",
         "https://i.ibb.co/njkCQHq/t-shirt-3.webp",
         "https://i.ibb.co/njkCQHq/t-shirt-3.webp"
@@ -44,7 +44,7 @@
         "XL"
       ],
       "image": "https://i.ibb.co/WtgcmWR/t-shirt-2.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/WtgcmWR/t-shirt-2.webp",
         "https://i.ibb.co/WtgcmWR/t-shirt-2.webp",
         "https://i.ibb.co/WtgcmWR/t-shirt-2.webp"
@@ -71,7 +71,7 @@
         "L"
       ],
       "image": "https://i.ibb.co/J3GnxxJ/t-shirt-4.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/J3GnxxJ/t-shirt-4.webp",
         "https://i.ibb.co/J3GnxxJ/t-shirt-4.webp",
         "https://i.ibb.co/J3GnxxJ/t-shirt-4.webp"
@@ -97,7 +97,7 @@
         "XL"
       ],
       "image": "https://i.ibb.co/fvhz0L9/t-shirt-1.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/fvhz0L9/t-shirt-1.webp",
         "https://i.ibb.co/fvhz0L9/t-shirt-1.webp"
       ],
@@ -121,7 +121,7 @@
         "L"
       ],
       "image": "https://i.ibb.co/gyK0K05/t-shirt-5.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/gyK0K05/t-shirt-5.webp"
       ],
       "rating": "900",
@@ -144,7 +144,7 @@
         "L"
       ],
       "image": "https://i.ibb.co/PjPZxnP/t-shirt-6.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/PjPZxnP/t-shirt-6.webp",
         "https://i.ibb.co/1K7FpzG/t-shirt-6-1.webp"
       ],
@@ -169,7 +169,7 @@
         "L"
       ],
       "image": "https://i.ibb.co/vBk4PRS/t-shirt-7.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/vBk4PRS/t-shirt-7.webp",
         "https://i.ibb.co/D9GhXyT/t-shirt-7-1.webp",
         "https://i.ibb.co/JQzfRKd/t-shirt-7-2.webp"
@@ -193,7 +193,7 @@
         "L"
       ],
       "image": "https://i.ibb.co/XSzf79Q/t-shirt-8.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/XSzf79Q/t-shirt-8.webp",
         "https://i.ibb.co/gWD5kRs/t-shirt-8-1.webp",
         "https://i.ibb.co/R0CxyKM/t-shirt-8-3.webp"
@@ -219,7 +219,7 @@
         "XL"
       ],
       "image": "https://i.ibb.co/MPbgCm0/jacket-1.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/MPbgCm0/jacket-1.webp",
         "https://i.ibb.co/TPDWmH1/jacket-1-1.webp",
         "https://i.ibb.co/dkzjkjQ/jacket-1-2.webp"
@@ -235,7 +235,8 @@
       "description": "Premium leather jacket with a sleek finish.",
       "category": "jacket",
       "colors": [
-        "white"
+        "white",
+        "Red"
       ],
       "sizes": [
         "S",
@@ -243,7 +244,7 @@
         "L"
       ],
       "image": "https://i.ibb.co/T0BzWzv/jacket-2.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/T0BzWzv/jacket-2.webp",
         "https://i.ibb.co/T0BzWzv/jacket-2.webp"
       ],
@@ -258,7 +259,8 @@
       "description": "Premium leather jacket with a sleek finish.",
       "category": "jacket",
       "colors": [
-        "Green"
+        "Green",
+        "LightBlue"
       ],
       "sizes": [
         "M",
@@ -266,7 +268,7 @@
         "XL"
       ],
       "image": "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
         "https://i.ibb.co/qYcv9H0/jacket-3-1.webp"
       ],
@@ -291,7 +293,7 @@
         "XL"
       ],
       "image": "https://i.ibb.co/Sf2BTbv/jacket-5.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/Sf2BTbv/jacket-5.webp",
         "https://i.ibb.co/RNp2QGM/jacket-5-1.webp",
         "https://i.ibb.co/h1pRWGY/jacket-5-2.webp"
@@ -315,58 +317,12 @@
         "XL"
       ],
       "image": "https://i.ibb.co/SKPcmwg/jacket-6.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/SKPcmwg/jacket-6.webp",
         "https://i.ibb.co/qxKsPz8/jacket-6-1.webp",
         "https://i.ibb.co/6YR3Kxd/jacket-6-2.webp"
       ],
       "rating": "110k",
-      "sell": "Best quality",
-      "stoct": 6984
-    },
-    {
-      "id": "h4i8j7k1-2b33-489s-7g45-9d11j3t2",
-      "name": "Classic Jacket",
-      "price": 110,
-      "description": "Premium leather jacket with a sleek finish.",
-      "category": "jacket",
-      "colors": [
-        "Green"
-      ],
-      "sizes": [
-        "M",
-        "L",
-        "XL"
-      ],
-      "image": "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
-      "image-detail": [
-        "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
-        "https://i.ibb.co/qYcv9H0/jacket-3-1.webp"
-      ],
-      "rating": "10k",
-      "sell": "Best quality",
-      "stoct": 6984
-    },
-    {
-      "id": "h4i8j7k1-2b33-4v18-7g45-541805kc",
-      "name": "Classic Jacket",
-      "price": 110,
-      "description": "Premium leather jacket with a sleek finish.",
-      "category": "jacket",
-      "colors": [
-        "Green"
-      ],
-      "sizes": [
-        "M",
-        "L",
-        "XL"
-      ],
-      "image": "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
-      "image-detail": [
-        "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
-        "https://i.ibb.co/qYcv9H0/jacket-3-1.webp"
-      ],
-      "rating": "10k",
       "sell": "Best quality",
       "stoct": 6984
     },
@@ -385,7 +341,7 @@
         "XL"
       ],
       "image": "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
         "https://i.ibb.co/qYcv9H0/jacket-3-1.webp"
       ],
@@ -400,7 +356,8 @@
       "description": "Premium leather jacket with a sleek finish.",
       "category": "jacket",
       "colors": [
-        "Green"
+        "Green",
+        "Maroon"
       ],
       "sizes": [
         "M",
@@ -408,7 +365,7 @@
         "XL"
       ],
       "image": "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/R6Xhq4h/jacket-3.webp",
         "https://i.ibb.co/qYcv9H0/jacket-3-1.webp"
       ],
@@ -423,14 +380,15 @@
       "description": "A classic white shirt perfect for formal events.",
       "category": "shirt",
       "colors": [
-        "White"
+        "White",
+        "Brown"
       ],
       "sizes": [
         "L",
         "XL"
       ],
       "image": "https://i.ibb.co/MRTgRYj/shirt-1.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/MRTgRYj/shirt-1.webp"
       ],
       "rating": "10k",
@@ -453,7 +411,7 @@
         "XL"
       ],
       "image": "https://i.ibb.co/df8N0w2/shirt-2.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/df8N0w2/shirt-2.webp"
       ],
       "rating": "10k",
@@ -477,7 +435,7 @@
         "XL"
       ],
       "image": "https://i.ibb.co/NtRHWXL/shirt-3.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/NtRHWXL/shirt-3.webp",
         "https://i.ibb.co/zNbMXDs/shirt-3-1.webp",
         "https://i.ibb.co/L8VynTx/shirt-3-2.webp"
@@ -493,7 +451,8 @@
       "description": "A modern slim fit shirt that enhances your silhouette.",
       "category": "shirt",
       "colors": [
-        "Black"
+        "Black",
+        "Navy"
       ],
       "sizes": [
         "S",
@@ -501,7 +460,7 @@
         "L"
       ],
       "image": "https://i.ibb.co/Vt1TL69/shirt-4.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/Vt1TL69/shirt-4.webp",
         "https://i.ibb.co/Vt1TL69/shirt-4.webp"
       ],
@@ -523,7 +482,7 @@
         "L"
       ],
       "image": "https://i.ibb.co/0VjjJS7/jean-1.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/0VjjJS7/jean-1.webp"
       ],
       "rating": "10k",
@@ -545,7 +504,7 @@
         "XL"
       ],
       "image": "https://i.ibb.co/3d7b9SB/jean-2.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/3d7b9SB/jean-2.webp"
       ],
       "rating": "10k",
@@ -559,7 +518,7 @@
       "description": "Distressed jeans with a rugged and stylish look.",
       "category": "jeans",
       "colors": [
-        "Light Blue",
+        "LightBlue",
         "Black"
       ],
       "sizes": [
@@ -568,7 +527,7 @@
         "XL"
       ],
       "image": "https://i.ibb.co/D8k5DHb/jean-3.webp",
-      "image-detail": [
+      "imageDetail": [
         "https://i.ibb.co/D8k5DHb/jean-3.webp",
         "https://i.ibb.co/52YmKP4/jean-3-1.webp"
       ],
