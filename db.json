@@ -585,7 +585,17 @@
       "updated_at": "2024-04-24T15:58:05.791Z"
     }
   ],
-  "profiles": [],
+  "profiles": [
+    {
+      "id": "701796f0-0253-11ef-804b-d90ac4375213",
+      "userId": "701796f0-0253-11ef-804b-d90ac4375227",
+      "avatar": "",
+      "gender": "",
+      "address": "",
+      "phone": "",
+      "street": ""
+    }
+  ],
   "cart": [],
   "wish-list": []
 }
